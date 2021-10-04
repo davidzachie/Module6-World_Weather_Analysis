@@ -26,7 +26,7 @@
     2.  We use the WeatherPy_vacation.csv containing cities, hotel locations, and weather condition to customize a travel itinerary by selecting cities that our customer wants to visit.
     3.  Finally, we created a travel routes map with driving direction and a marker layer map with pop-up markers for each city showing hotel name, city, country, current weather description, and maximum temperature.
 
-### [Vacation_Itinerary](https://github.com/davidzachie/Module6-World_Weather_Analysis/blob/413e02bd830a716f567f01b8afb84a6bb31da820/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+### [Vacation_Itinerary.ipynb](https://github.com/davidzachie/Module6-World_Weather_Analysis/blob/413e02bd830a716f567f01b8afb84a6bb31da820/Vacation_Itinerary/Vacation_Itinerary.ipynb)
     
 ### [WeatherPy Travel Map](Vacation_Itinerary/WeatherPy_travel_map.png)
 
